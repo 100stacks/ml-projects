@@ -4,6 +4,11 @@
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
+## Instructions for Deployment
+
+- **➡️ See: Deploy your first JupyterLite website on GitHub Pages**
+- **https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html#deploy-your-first-jupyterlite-website-on-github-pages**
+  
 ## ✨ Try it in your browser ✨
 
 ➡️ **https://jupyterlite.github.io/demo**
@@ -33,5 +38,4 @@ optional utilities and extensions to make the JupyterLite experience more enjoya
 [`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
 
 For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
 
